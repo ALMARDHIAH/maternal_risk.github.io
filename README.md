@@ -14,5 +14,6 @@ Text exploration has been conducted based on article titled “Challenges Facing
 
 The purpose of conducting the text analysis was to get to know which topic or difficulty have been discussed the most in the article. The most frequent challenge dicussed would be considered as the main factor that cause high-risk pregnancy.
 
-##
+## R Studio Code
+R code used to generate the wordcloud was as follow:
 ##
