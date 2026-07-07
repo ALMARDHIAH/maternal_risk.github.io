@@ -8,7 +8,7 @@ library("SnowballC")
 library("wordcloud")
 library("RColorBrewer")
 
-text=readLines(article.txt)
+text=readLines(file.choose())
 docs=Corpus(VectorSource(text))
 inspect(docs)
 
