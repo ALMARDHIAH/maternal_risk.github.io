@@ -16,7 +16,7 @@ The purpose of conducting the text analysis was to get to know which topic or di
 
 ## R Studio Code
 R code used to generate the wordcloud was as follow:
-'''
+```
 install.packages("tm")
 install.packages("SnowballC")
 install.packages("wordcloud")
@@ -53,6 +53,5 @@ set.seed(1234)
 wordcloud(words=d$word, freq=d$freq,
 min.freq=1,max.words=200,random.order=FALSE,
 rot.per=0.35,colors=brewer.pal(8,"Dark2"))
-
-'''
+```
 ##
