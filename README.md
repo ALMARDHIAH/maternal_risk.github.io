@@ -10,7 +10,8 @@ There were two types of analysis conducted in this project which were
 2.	text analysis (based on text data).
 
 ## About Text Exploration
-Text exploration has been conducted based on article titled “Challenges Facing during Pregnancy and Measures to Overcome” written by Gayatri Devi Ramalingam, Saravana Kumar Sampath and Jothi Priya Amirtham. This article explains the difficulties during pregnancy. The article can be accessed [here](https://www.intechopen.com/chapters/78926) 
+Text exploration has been conducted based on article titled “Challenges Facing during Pregnancy and Measures to Overcome” written by Gayatri Devi Ramalingam, Saravana Kumar Sampath and Jothi Priya Amirtham. This article explains the difficulties during pregnancy. The article can be accessed [here](https://www.intechopen.com/chapters/78926).
+
 The purpose of conducting the text analysis was to get to know which topic or difficulty have been discussed the most in the article. The most frequent challenge dicussed would be considered as the main factor that cause high-risk pregnancy.
 
 ##
