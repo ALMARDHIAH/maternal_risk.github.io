@@ -1,4 +1,4 @@
-# Data Science Project: Maternal Risk  2022
+# Data Science Project: Maternal Risk  (2022)
 ## About Project
 The purpose of this project was to give students a deep understanding in examining large amounts of real-world data to uncover hidden patterns, generate insights, and direct decision-making. 
 Our project was titled “Maternal Risk”, focused on two main objectives:
