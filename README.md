@@ -8,7 +8,7 @@ Our project was titled “Maternal Risk”, focused on two main objectives:
 2.	Identify the associations between maternal age and maternal risk
 
 There were two types of analysis conducted in this project which were 
-1.	data analysis (based on [maternal health risk data](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data) 
+1.	data analysis (based on [maternal health risk data](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data)) 
 2.	text analysis (based on text data).
 >
 >**My key contribution**: Text analysis
