@@ -27,7 +27,7 @@ library("SnowballC")
 library("wordcloud")
 library("RColorBrewer")
 
-text=readLines(file.choose())
+text=readLines(url("https://www.intechopen.com/chapters/78926"))
 docs=Corpus(VectorSource(text))
 inspect(docs)
 
