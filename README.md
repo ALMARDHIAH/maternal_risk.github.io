@@ -10,7 +10,7 @@ There were two types of analysis conducted in this project which were
 1.	data analysis (based on [maternal health risk data](https://www.kaggle.com/datasets/csafrit2/maternal-health-risk-data) 
 2.	text analysis (based on text data).
 >
->>**My key contribution**: Text analysis
+>**My key contribution**: Text analysis
 
 ## About Text Exploration
 Text exploration has been conducted based on article titled “Challenges Facing during Pregnancy and Measures to Overcome” written by Gayatri Devi Ramalingam, Saravana Kumar Sampath and Jothi Priya Amirtham. This article explains the difficulties during pregnancy. The article can be accessed [here](https://www.intechopen.com/chapters/78926).
